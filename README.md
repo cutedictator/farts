@@ -16,7 +16,7 @@
   <!-- When user is in Dark Mode, show a transparent 1x1 spacer (hides the image) -->
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.phototourl.com/member/2026-09-30-43606111-13d9-49d3-82f8-527f9b33d146.png">
   <!-- When user is in Light Mode, show your actual image/GIF -->
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-09-30-5e53f2c0-a05e-4031-8082-a573559d8e52.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-10-01-3033d401-6e50-46cb-a49b-3a3c82a6eb62.png">
   <!-- Fallback for standard browsers -->
   <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-10-01-3033d401-6e50-46cb-a49b-3a3c82a6eb62.png" width="1000">
 </picture>
