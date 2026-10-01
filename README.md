@@ -1,5 +1,3 @@
-
-
 <picture>
   <!-- When user is in Dark Mode, show a transparent 1x1 spacer (hides the image) -->
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.phototourl.com/member/2026-09-30-43606111-13d9-49d3-82f8-527f9b33d146.png">
@@ -16,26 +14,34 @@
 
 <picture>
   <!-- When user is in Dark Mode, show a transparent 1x1 spacer (hides the image) -->
-  <source media="(prefers-color-scheme
-<img width="498" height="345" alt="Image" src="https://cdn.imageurlgenerator.com/uploads/21eaa06d-fd9b-4fc9-960b-091097caf60c.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.phototourl.com/member/2026-09-30-43606111-13d9-49d3-82f8-527f9b33d146.png">
+  <!-- When user is in Light Mode, show your actual image/GIF -->
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-09-30-5e53f2c0-a05e-4031-8082-a573559d8e52.png">
+  <!-- Fallback for standard browsers -->
+  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-09-30-5e53f2c0-a05e-4031-8082-a573559d8e52.png">
+</picture>
 
 
 
-hahacwmhadmyqdynadggx xagtqmgdqnyq
 
 
-KSHSNOSISHSNSBSVGWJAIA
 
 
-msjsbak# farts
+<picture>
+  <!-- 1. Explicit Dark Mode rule -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.image2url.com/r2/default/gifs/1790763144425-4902a0a7-3403-4dd0-9430-14a26d3018d0.gif">
+  <!-- 2. Explicit Light Mode rule (Forces GitHub to fetch the token) -->
+  <source media="(prefers-color-scheme: light)" srcset="https://www.image2url.com/r2/default/gifs/1790766315023-2e86878a-fca2-4e44-9285-f0d2a9d8debb.gif">
+  <!-- 3. The fallback img tag -->
+  <img alt="Project Demo" src="https://www.image2url.com/r2/default/gifs/1790766315023-2e86878a-fca2-4e44-9285-f0d2a9d8debb.gif">
+</picture>
 
-<img width="700" alt="Image" src="https://github.com/user-attachments/assets/d6ea6fc3-8ed2-41ad-b31d-7358c20664fa" />
 
-
-<img width="498" height="345" alt="Image" src="https://github.com/user-attachments/assets/d6ea6fc3-8ed2-41ad-b31d-7358c20664fa" />
-
-https://github.com/user-attachments/assets/24478608-d0b9-432e-9d0f-e504406d1bf1
-
-
-![Light Version](https://github.com/user-attachments/assets/7880f1ab-2737-4836-ba62-b6e4ed1fa750)
-![Dark Version](https://github.com/user-attachments/assets/7880f1ab-2737-4836-ba62-b6e4ed1fa750)
+<picture>
+  <!-- When user is in Dark Mode, show a transparent 1x1 spacer (hides the image) -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.phototourl.com/member/2026-09-30-43606111-13d9-49d3-82f8-527f9b33d146.png">
+  <!-- When user is in Light Mode, show your actual image/GIF -->
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-09-30-13e5c240-4c3d-4553-81ec-19a2bbb0c47a.png">
+  <!-- Fallback for standard browsers -->
+  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-09-30-13e5c240-4c3d-4553-81ec-19a2bbb0c47a.png">
+</picture>
