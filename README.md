@@ -2,9 +2,9 @@
   <!-- When user is in Dark Mode, show a transparent 1x1 spacer (hides the image) -->
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.phototourl.com/member/2026-09-30-43606111-13d9-49d3-82f8-527f9b33d146.png">
   <!-- When user is in Light Mode, show your actual image/GIF -->
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-09-30-bcc1e493-96e5-4ff4-8591-c1cc107ea55b.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-10-01-c77ae01a-00c6-4eaa-bd82-cde8d3395b7c.png">
   <!-- Fallback for standard browsers -->
-  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-09-30-bcc1e493-96e5-4ff4-8591-c1cc107ea55b.png" width="1000">
+  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-10-01-c77ae01a-00c6-4eaa-bd82-cde8d3395b7c.png" width="1000">
 </picture>
 
 <picture>
@@ -28,6 +28,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-10-01-3033d401-6e50-46cb-a49b-3a3c82a6eb62.png">
   <!-- Fallback for standard browsers -->
   <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-10-01-3033d401-6e50-46cb-a49b-3a3c82a6eb62.png" width="1000">
+</picture>
+<picture>
+  <!-- When user is in Dark Mode, show a transparent 1x1 spacer (hides the image) -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.phototourl.com/member/2026-09-30-43606111-13d9-49d3-82f8-527f9b33d146.png">
+  <!-- When user is in Light Mode, show your actual image/GIF -->
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-10-01-c77ae01a-00c6-4eaa-bd82-cde8d3395b7c.png">
+  <!-- Fallback for standard browsers -->
+  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-10-01-c77ae01a-00c6-4eaa-bd82-cde8d3395b7c.png" width="1000">
 </picture>
 
 <picture>
