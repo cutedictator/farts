@@ -21,12 +21,6 @@
   <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-09-30-5e53f2c0-a05e-4031-8082-a573559d8e52.png" width="1000">
 </picture>
 
-
-
-
-
-
-
 <picture>
   <!-- 1. Explicit Dark Mode rule -->
   <source media="(prefers-color-scheme: dark)" srcset="https://www.image2url.com/r2/default/gifs/1790763144425-4902a0a7-3403-4dd0-9430-14a26d3018d0.gif">
